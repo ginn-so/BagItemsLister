@@ -69,6 +69,7 @@ end
 function ToggleDebugWindow()
     if not debugWindow then
         CreateDebugWindow()
+        print('git test')
     else
         if debugWindow:IsShown() then
             debugWindow:Hide()
