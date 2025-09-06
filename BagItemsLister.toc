@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Bag Items Lister
+## Notes: Displays list of items in bags
+## Author: Ginn
+## Version: 1.0
+
+BagItemsLister.lua
+--BagItemsLister_Debug.lua
